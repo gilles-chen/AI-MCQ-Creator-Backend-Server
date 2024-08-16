@@ -1,0 +1,19 @@
+{ 
+    "id": "Question Number",
+    "question": "Sample Question Text", 
+    "options": { 
+        "A": "Option A", 
+        "B": "Option B", 
+        "C": "Option C", 
+        "D": "Option D" 
+    }, 
+    "correct_answer": "A", 
+    "feedback": { 
+        "correct": "Explanation for the correct answer", 
+        "incorrect": { 
+            "B": "Explanation for incorrect answer B", 
+            "C": "Explanation for incorrect answer C", 
+            "D": "Explanation for incorrect answer D" 
+        } 
+    } 
+} 

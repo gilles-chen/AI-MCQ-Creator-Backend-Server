@@ -1,0 +1,23 @@
+The Understand level of Bloom's Taxonomy focuses on comprehension and interpretation tasks. 
+This level assesses a student's ability to grasp the meaning of material that has been learned. 
+Students are expected to explain ideas or concepts, interpret facts, compare, contrast, and predict consequences. 
+This level goes beyond mere recall of facts, requiring students to make sense of and articulate the information they have learned.
+
+## Key Features of MCQs at the "Understand" Level
+1. **Interpretation**: Questions require students to paraphrase, explain, or interpret information in their own words.
+2. **Exemplification**: Students must provide examples or explain how concepts are applied in real scenarios.
+3. **Summarization**: Questions may ask students to summarize a concept or narrative succinctly.
+
+## Action Verbs for "Understand" Level
+- **Explain**
+    - **Example**: "Explain why the greenhouse effect is critical for life on Earth."
+- **Describe**
+    - **Example**: "Describe the process of cellular respiration."
+- **Summarize**
+    - **Example**: "Summarize the key events of World War II."
+- **Interpret**
+    - **Example**: "Interpret the significance of the results of this scientific experiment."
+- **Compare**
+    - **Example**: "Compare and contrast photosynthesis and cellular respiration."
+
+These action verbs and question types help educators design assessments that evaluate a student's depth of understanding about a topic, not just their ability to remember facts.

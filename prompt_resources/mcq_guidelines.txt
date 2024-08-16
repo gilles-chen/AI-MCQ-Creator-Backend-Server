@@ -1,0 +1,13 @@
+## Guidelines for the Stem
+- The stem should be meaningful by itself and provide a complete idea.
+- Avoid ambiguous statements and including irrelevant information in the stem.
+- The stem should be in the form of a question or an incomplete sentence that the options will complete.
+
+## Guidelines for the Distractors
+- Distractors must be plausible and relevant to the question.
+- Distractors must not overlap with the correct answer.
+- Distractors should be homogeneous in content to avoid giving away clues about the correct answer.
+
+## General Guidelines
+- Ensure the correct answer cannot be easily guessed.
+- Use consistent formatting across all options (e.g., same tense, structure).

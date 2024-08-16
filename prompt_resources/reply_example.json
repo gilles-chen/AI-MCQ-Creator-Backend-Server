@@ -1,0 +1,14 @@
+{
+    "1":
+    {
+        "TRUE if solvable. FALSE if not solvable": "Reason why it's solvable/not solvable"
+    },
+    "2":
+    {
+        "TRUE if solvable. FALSE if not solvable": "Reason why it's solvable/not solvable"
+    },
+    "3":
+    {
+        "TRUE if solvable. FALSE if not solvable": "Reason why it's solvable/not solvable"
+    }
+}

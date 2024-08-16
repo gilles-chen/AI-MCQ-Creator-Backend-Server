@@ -1,0 +1,80 @@
+{
+    "mcqs": [
+        {
+            "id": 1,
+            "question": "What event is widely considered to have sparked the beginning of World War I?",
+            "options": {
+                "A": "The sinking of the Lusitania",
+                "B": "The assassination of Archduke Franz Ferdinand",
+                "C": "The invasion of Poland",
+                "D": "The signing of the Treaty of Versailles"
+            },
+            "correct_answer": "B",
+            "feedback": {
+                "correct": "The assassination of Archduke Franz Ferdinand of Austria-Hungary on June 28, 1914, is widely considered the immediate cause that triggered World War I.",
+                "incorrect": {
+                    "A": "The sinking of the Lusitania occurred in 1915 and contributed to the U.S. entering the war, but it did not start the war.",
+                    "C": "The invasion of Poland by Germany marked the beginning of World War II, not World War I.",
+                    "D": "The Treaty of Versailles was signed in 1919 to end World War I, not to start it."
+                }
+            }
+        },
+        {
+            "id": 2,
+            "question": "Which countries made up the Triple Entente at the start of World War I?",
+            "options": {
+                "A": "France, Russia, and the United Kingdom",
+                "B": "Germany, Austria-Hungary, and Italy",
+                "C": "United States, France, and Russia",
+                "D": "Germany, Ottoman Empire, and Bulgaria"
+            },
+            "correct_answer": "A",
+            "feedback": {
+                "correct": "The Triple Entente was an alliance formed between France, Russia, and the United Kingdom before World War I.",
+                "incorrect": {
+                    "B": "Germany, Austria-Hungary, and Italy formed the Triple Alliance, not the Triple Entente.",
+                    "C": "The United States was not part of the Triple Entente; it joined the Allies later in the war.",
+                    "D": "Germany, the Ottoman Empire, and Bulgaria were part of the Central Powers, not the Triple Entente."
+                }
+            }
+        },
+        {
+            "id": 3,
+            "question": "What was the primary purpose of the Schlieffen Plan?",
+            "options": {
+                "A": "To establish a naval blockade against the United Kingdom",
+                "B": "To form an alliance with Italy",
+                "C": "To quickly defeat France and then move east to fight Russia",
+                "D": "To negotiate peace with the Allied Powers"
+            },
+            "correct_answer": "C",
+            "feedback": {
+                "correct": "The Schlieffen Plan was Germany's military strategy to avoid a two-front war by quickly defeating France and then turning to fight Russia.",
+                "incorrect": {
+                    "A": "The Schlieffen Plan was not about a naval blockade; it was a land-based military strategy.",
+                    "B": "Forming an alliance with Italy was not the objective of the Schlieffen Plan.",
+                    "D": "The Schlieffen Plan was a war strategy, not a peace negotiation plan."
+                }
+            }
+        },
+        {
+            "id": 4,
+            "question": "Which battle is considered one of the longest and costliest of World War I?",
+            "options": {
+                "A": "Battle of the Somme",
+                "B": "Battle of Gallipoli",
+                "C": "Battle of Tannenberg",
+                "D": "Battle of Verdun"
+            },
+            "correct_answer": "D",
+            "feedback": {
+                "correct": "The Battle of Verdun, fought in 1916, is considered one of the longest and costliest battles of World War I, lasting about 10 months.",
+                "incorrect": {
+                    "A": "The Battle of the Somme was also a significant and costly battle, but it was not as long as the Battle of Verdun.",
+                    "C": "The Battle of Tannenberg was a decisive battle on the Eastern Front but was not as prolonged or costly as Verdun.",
+                    "B": "The Battle of Gallipoli was a major campaign but did not match the duration and casualties of the Battle of Verdun."
+                }
+            }
+        }
+    ]
+}

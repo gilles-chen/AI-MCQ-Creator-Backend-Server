@@ -1,0 +1,22 @@
+The Apply level of Bloom's Taxonomy is centered around the application of knowledge and skills in new and concrete situations. 
+This level tests a student's ability to use learned material through the execution of procedures or tasks. 
+Students are required to implement, demonstrate, or carry out learned concepts in various contexts, such as solving problems or conducting experiments.
+
+## Key Features of MCQs at the "Apply" Level
+1. **Execution**: Questions challenge students to use their knowledge practically or operationally.
+2. **Implementation**: Students must demonstrate how to apply theories or concepts to real-world situations.
+3. **Problem-Solving**: Questions often involve scenarios that require specific solutions, emphasizing the application of knowledge.
+
+## Action Verbs for "Apply" Level
+- **Apply**
+    - **Example**: "Apply Newton's laws of motion to determine the result of a collision between two cars."
+- **Use**
+    - **Example**: "Use the principle of supply and demand to analyze the potential market changes for a new product."
+- **Implement**
+    - **Example**: "Implement the given algorithm to sort a list of numbers in ascending order."
+- **Demonstrate**
+    - **Example**: "Demonstrate how to conduct a titration experiment in a chemistry lab."
+- **Solve**
+    - **Example**: "Solve this calculus problem using the appropriate differentiation techniques."
+
+These action verbs and question types encourage educators to create assessments that measure how well students can apply theoretical knowledge to achieve practical outcomes.

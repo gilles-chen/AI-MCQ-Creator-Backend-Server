@@ -1,0 +1,15 @@
+old/
+.env
+# Compiled code
+__pycache__/
+*.pyc
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# Virtual environments
+venv/

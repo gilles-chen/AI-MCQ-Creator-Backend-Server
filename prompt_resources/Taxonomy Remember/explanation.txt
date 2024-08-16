@@ -1,0 +1,20 @@
+The Remember level of Bloom's Taxonomy are primarily focused on recall-based tasks.
+They assess a student's ability to retrieve and recognize factual information from memory.
+This involves recalling specific details such as facts, definitions, dates, terms, and basic concepts and do not require deeper understanding or application.
+
+## Key Features of MCQs at the "Remember" Level. 
+1. Simple Recall: Questions require the student to recall specific information directly from memory.
+2. Recognition: Students recognize correct information when presented among distractors.
+3. Direct Questions: The Questions are straightforward, asking for factual answers without interpretation.
+
+## Action Verbs for "Remember" Level. 
+- Identify
+    - **Example**: "Identify the organ in the human body responsible for pumping blood."
+- Select
+    - **Example**: "Select the capital city of Italy."
+- Name
+    - **Example**: "Name the scientist who formulated the theory of relativity."
+- Recall
+    - **Example**: "Recall the process by which plants make food using sunlight."
+- Recognize
+    - **Example**: Recognize the flag of Canada among these descriptions.
