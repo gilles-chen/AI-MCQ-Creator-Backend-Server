@@ -4,7 +4,7 @@ This repository contains the implementation of a comprehensive framework for gen
 
 ## Demonstration
 
-https://github.com/user-attachments/assets/f0a695dd-fa73-4ff7-9a15-4d91777c214f
+https://github.com/user-attachments/assets/24fc0011-dbb8-4bd8-92b2-b4cf3c19fa5a
 
 
 ## Key Features
