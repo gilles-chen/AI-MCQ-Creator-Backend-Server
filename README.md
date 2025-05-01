@@ -2,6 +2,11 @@
 
 This repository contains the implementation of a comprehensive framework for generating high-quality multiple-choice questions (MCQs) using GPT-4o. The system is designed to automate the creation of MCQs with minimal item-writing flaws (IWFs), targeting the first three levels of Bloom’s Taxonomy: Remembering, Understanding, and Applying.
 
+## Demonstration
+
+https://github.com/user-attachments/assets/f0a695dd-fa73-4ff7-9a15-4d91777c214f
+
+
 ## Key Features
 
 - **Prompt Engineering Integration**: Utilizes few-shot, chain-of-thought and RAG prompting with tailored patterns (Persona, Template, Context Manager).
