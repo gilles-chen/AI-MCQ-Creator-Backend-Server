@@ -84,4 +84,4 @@ These enhancements significantly strengthen SAQUET’s ability to detect item-wr
 
 ## Prompt Assembly
 
-![Final Prompt Assembly drawio](https://github.com/user-attachments/assets/1a611442-fda7-4a07-ba35-b2194698a355)
+<img width="1364" alt="prompt assembly" src="https://github.com/user-attachments/assets/2c6fdc4d-62ef-41f7-a050-6e138d6f89f7" />
